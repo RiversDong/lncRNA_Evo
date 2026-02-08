@@ -18,4 +18,4 @@
     * `21_rbh.py`
     * `22_branch.py`
     * `23_calc_age.py`
-* **`ctl`**: Configuration file for BLASTn analysis.
+* **`ctl`**: Configuration file for dating gene age of protein-coding genes.
